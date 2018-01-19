@@ -1,5 +1,5 @@
 .topBarContainer, .topBarContainer.hover, .topBarContainer.open {
-    background: rgba(0, 68, 124,1)!important;
+    background: rgba(0, 0, 0, 1)!important;
 }
 
 .btn:focus {

@@ -1,1 +1,7 @@
+.topBarContainer, .topBarContainer.hover, .topBarContainer.open {
+    background: rgba(0, 68, 124,1)!important;
+}
 
+.btn:focus {
+    outline: 1px solid #d11242!important;
+}

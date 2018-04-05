@@ -1,0 +1,7 @@
+.topBarContainer, .topBarContainer.hover, .topBarContainer.open {
+    background: rgb(62, 61, 60)!important;
+}
+.watermark {
+    padding-left: 10px!important;
+    padding-bottom: 40px!important;
+}
